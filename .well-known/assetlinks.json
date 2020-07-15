@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.svipeid.android.svipeid",
+    "sha256_cert_fingerprints":
+    ["72:2E:A9:C0:87:F0:61:B1:D3:CA:24:AE:97:98:40:81:1B:83:29:70:68:61:35:C6:E7:ab:FC:CB:87:1A:94:16"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://id.svipe.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.svipeid.android.svipeid",
+    "sha256_cert_fingerprints":
+    ["72:2E:A9:C0:87:F0:61:B1:D3:CA:24:AE:97:98:40:81:1B:83:29:70:68:61:35:C6:E7:ab:FC:CB:87:1A:94:16"]
+  }
+}]

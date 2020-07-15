@@ -1,0 +1,14 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "22PS7P6M6M.com.svipe.id",
+          "paths": [ "*"]
+        }
+      ]
+     },
+     "appclips": {
+       "apps": ["22PS7P6M6M.com.svipe.id.Clip"]
+     }
+}
